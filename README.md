@@ -1,0 +1,1 @@
+The current project is to create a basic website linking to various recipes.
